@@ -3141,7 +3141,10 @@ static struct device_info boards[] = {
 			"SupportList:\n"
 			"{product_name:MR70X,product_ver:1.0.0,special_id:45550000}\n"
 			"{product_name:MR70X,product_ver:1.0.0,special_id:4A500000}\n"
-			"{product_name:MR70X,product_ver:1.0.0,special_id:55530000}\n",
+			"{product_name:MR70X,product_ver:1.0.0,special_id:55530000}\n"
+			"{product_name:MR1800X,product_ver:1.0.0,special_id:45550000}\n"
+			"{product_name:MR1800X,product_ver:1.0.0,special_id:4A500000}\n"
+			"{product_name:MR1800X,product_ver:1.0.0,special_id:55530000}\n",
 		.part_trail = 0x00,
 		.soft_ver = SOFT_VER_DEFAULT,
 
